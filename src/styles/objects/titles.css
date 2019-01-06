@@ -1,0 +1,12 @@
+.titles {
+  color: var(--secondary-color);
+  h1 {
+    font-size: 30px;
+    margin: 20px 0px 10px;
+    text-transform: capitalize;
+  }
+  h2 {
+    font-size: 20px;
+    margin: 0 0 30px;
+  }
+}

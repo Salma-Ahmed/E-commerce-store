@@ -1,0 +1,16 @@
+ul::-webkit-scrollbar,
+.filters::-webkit-scrollbar {
+  width: 10px;
+}
+
+ul::-webkit-scrollbar-track,
+.filters::-webkit-scrollbar-track {
+  background-color: #dedede;
+  width: 3px;
+}
+
+ul::-webkit-scrollbar-thumb,
+.filters::-webkit-scrollbar-track {
+  background-color: rgba(22, 184, 0230, 1);
+  width: 3px;
+}
