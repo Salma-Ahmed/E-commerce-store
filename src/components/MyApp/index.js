@@ -23,7 +23,7 @@ class MyApp extends Component {
         <div className="container">
           <Titles />
           <CategoriesList />
-          <div className="row row--4 row--xs">
+          <div className="row row--4 row--xs row--sm">
             <Filters showFilters={showFilters ? "filters--mob" : ""} />
             <Products />
           </div>
